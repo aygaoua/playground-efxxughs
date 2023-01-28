@@ -1,4 +1,4 @@
-# Welcome!
+# MAR7BA!
 
 This C template lets you get started quickly with a simple one-page playground.
 
@@ -12,5 +12,10 @@ int main() {
 ```
 
 # Advanced usage
-
+int main()
+{
+char h[12];
+    scanf("writ your beautiful name: %s\n",h);
+    printf("BIBA KHAWA %s!",h);
+}
 If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
