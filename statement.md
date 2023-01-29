@@ -6,7 +6,7 @@ This C template lets you get started quickly with a simple one-page playground.
 #include <stdio.h>
 
 int main() {
-	printf("VIVA KHAWA!");//you can write eny thing to send it to the stdout (standart output (the 1 on the file descreptor table)) .
+	printf("VIVA KHAWA!");//you can write eny thing to send it to the stdout (standart output (the 1 on the global file table)) .
 }
 
 ```
